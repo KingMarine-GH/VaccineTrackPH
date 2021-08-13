@@ -6,12 +6,12 @@ Local Government Units.
 
 ## Info
 
-This website uses [OurWorldInData's vaccine information on the
-Philippines] ([link](https://ourworldindata.org/covid-vaccinations?country=PHL)).
+This website uses OurWorldInData's vaccine information on the
+Philippines ([link](https://ourworldindata.org/covid-vaccinations?country=PHL)).
 The Philippine Statistics Authority's 2020 census data is used
 for the Philippine population. All data before August 12, 2021
 about vaccine deliveries are taken from hacktibista's HerdImmunityPH
-([Twitter](https://twitter.com/HerdImmunityPH) [Website](herdimmunity.ph)).
+([Twitter](https://twitter.com/HerdImmunityPH) | [Website](herdimmunity.ph)).
 All data beyond August 12 is added manually. A link to an article will be
 tweeted automatically when vaccine supply is updated.
 
